@@ -4,7 +4,7 @@ I was always super curious about the reasons why someone decided to quit the com
 
 I have also quit a few places in the past and I wanted to share what was happening and way. Of course I did with the people close to me, but there were always a few other curious and too shy to ping me. I am one of these introvert people who likes to talk a lot about things, just try me :)
 
-These are the main reasons why I thouhgt about `reasons-I-quit`. I hope it could be useful to someone else other then me.
+These are the main reasons why I thouhgt about `reasons-I-quit`. I hope this can be useful to someone else other then me.
 
 # How to use
 
