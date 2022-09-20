@@ -14,7 +14,9 @@ Example:
 
 > Dear all,
 >
->As you probably know today is my last day at The Best Company In The World (TM) and I want to thank everybody for the last 3 years of adventures, laughs and happyness. A special thank goes to Bort, my manager, who endlessy supported me, and Karen, who made easier my 2 and half hours commute. 
+>As you probably know, today is my last day at The Best Company In The World (TM).
+>
+>I want to thank everybody for the last 3 years of adventures, laughs and happyness. A special thank goes to Bort, my manager, who endlessy supported me, and Karen, who made easier my 2 and half hours commute. 
 >
 >I wish you all the best and success for the future.
 >
