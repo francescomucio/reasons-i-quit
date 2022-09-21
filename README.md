@@ -1,5 +1,9 @@
 # Reasons I Quit
 
+## TL;DR
+In case you want to subtly share with your colleagues the reasons why you decided to quit, just add the number for the reason(s) you decided to quit at the end of your farewell message.
+
+## Longer version
 I was always super curious about the reasons why someone decided to quit the company were we are working. In the final messages most of the people try to not burn bridges and keep things nice. Sometimes you can read more in what is not written, often the only way is to jump on Linkedin and try to connect to that person, maybe have a chat and let them air what was bothering them.
 
 I have also quit a few places in the past and I wanted to share what was happening and way. Of course I did with the people close to me, but there were always a few other curious and too shy to ping me. I am one of these introvert people who likes to talk a lot about things, just try me :)
