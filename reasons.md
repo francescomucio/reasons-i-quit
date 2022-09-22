@@ -24,3 +24,7 @@
 24. I was working overhours, but nobody notice.
 25. I was not of the "right" color.
 26. I was not of the "right" gender.
+27. Our performance review process is bullshit.
+28. Middle management is inexperienced and not fit for the job.
+29. Top management is inexperienced and not fit for the job.
+30. Company culture built around secrecy and personal connections.
