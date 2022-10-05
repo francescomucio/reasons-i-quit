@@ -45,3 +45,9 @@ The people in the know can check the reasons file and discover that Michael was:
 
 # Contributing
 Please, feel free to add additional reasons without changing the order of the existing ones.
+
+# Contributors
+Here a list of people contributing to this repo in alphabetical order.
+
+- [Ellen Koenig](https://github.com/ellenkoenig)
+- [Francesco Mucio](https://github.com/francescomucio)

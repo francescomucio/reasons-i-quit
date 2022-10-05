@@ -28,3 +28,10 @@
 28. Middle management is inexperienced and not fit for the job.
 29. Top management is inexperienced and not fit for the job.
 30. Company culture built around secrecy and personal connections.
+31. I hated working with the people on my team.
+32. This company is running out of money.
+33. This company doesn’t actually need data scientists or understands what they do.
+34. My tasks were boring af.
+35. My tasks were frustrating af.
+36. There is no data here worth keeping an engineer around for.
+37. Here people get promoted when they fail their projects.
